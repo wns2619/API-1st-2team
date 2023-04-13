@@ -48,6 +48,10 @@ void CPlayer::Key_Input(void)
 	}
 }
 
+void CPlayer::Test(void)
+{
+}
+
 void CPlayer::Late_Update(void)
 {
 }

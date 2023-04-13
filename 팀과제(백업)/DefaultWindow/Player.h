@@ -15,6 +15,6 @@ public:
 
 private:
 	void	Key_Input(void);
-
+	void	Test(void);
 };
 
